@@ -7,6 +7,7 @@
 +
 6
 """
+Ans:
 
 *: mathematical operation
 'hello': string
